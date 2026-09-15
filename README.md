@@ -1,19 +1,22 @@
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+# Hi, I'm Bruna 👋
 
-###
+💻 Learning to code
+🌐 Web Development
+🤖 Exploring AI + Code
+🚀 Building my first projects
+🇧🇷 Brazil
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## 🚀 What I'm working on:
+- Building websites for small businesses
+- Learning Java and backend development
+- Creating projects with AI + HTML/CSS
+- Building my web development portfolio
 
-###
+## 🛠️ Technologies
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+HTML • CSS • Java • Git • GitHub • AI
 
-###
+## 📫 Contact
+## (35)99315579
+
+Instagram: @bruhx_0110
